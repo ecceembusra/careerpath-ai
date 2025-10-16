@@ -9,8 +9,6 @@ Bu uygulama, kullanıcının CV'si ile seçilen iş ilanı arasındaki uyumu ana
    - %30 Text Similarity  : TF-IDF + Cosine benzerliği
    - %20 Keyword Overlap  : Görev/anahtar sözcük ortaklığı
 4) Çıktılar: Eşleşme skoru, güçlü/geliştirilecek alanlar, uzun cover letter
-
-Not: Bu sürüm RAG/LLM içermez; tamamen lokal ve kolay kuruluma odaklıdır.
 """
 
 # ============== 1) KÜTÜPHANELER ==============
