@@ -1,5 +1,7 @@
 <h1 align="center">💼 CareerPath AI — CV ↔️ İş İlanı Eşleşme Uygulaması</h1>
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace-blue?style=for-the-badge&logo=streamlit)](https://huggingface.co/spaces/ecceembusra/careerpath-ai)
+
 <p align="center">
 📊 <b>Veri Bilimi & NLP Projesi</b> • ⚙️ <b>TF-IDF + Cosine Similarity</b> • 🌐 <b>Streamlit Web App</b>
 </p>
