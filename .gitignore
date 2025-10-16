@@ -1,0 +1,45 @@
+# Python cache ve geçici dosyalar
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+.env
+.python-version
+
+# Streamlit ve geçici ayarlar
+.streamlit/
+logs/
+cache/
+temp/
+*.log
+
+# IDE & Sistem dosyaları
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Jupyter / IPython
+.ipynb_checkpoints/
